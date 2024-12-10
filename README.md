@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Evance!
 
-A polyglot and very experienced backend engineer interested in system programming. I speak many programming languages but try hard to focus on Rust, Golang, Javascript, and Zig. I am currently **looking for a job** while learning about system software by building them.
+A polyglot and very experienced backend engineer interested in system programming. I speak many programming languages but try hard to focus on Rust, Golang, Javascript, Python, and Zig. I am currently **looking for a job** while learning about system software by building them.
 
 
 - I attended the [Recurse Center](https://recurse.com) programming retreat from 3rd-January to 21st-June.
